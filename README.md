@@ -40,6 +40,14 @@ $ git clone https://github.com/ArthurPaes/BMICalculator.git
 $ yarn 
 $ npm install
 ```
+> To start the development server execute:
+```shell
+$ react-native start 
+```
+> Finally open your emulator and install the project:
+```shell
+$ npx react-native run-android
+```
 
 
 
