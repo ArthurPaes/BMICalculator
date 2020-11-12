@@ -1,6 +1,6 @@
 
 
-# Damage-Calculator
+# BMI-Calculator
 
 > Simple app built to calculate body mass index
 
